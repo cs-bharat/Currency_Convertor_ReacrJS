@@ -1,4 +1,6 @@
 # React + Vite
+## please checkout project 🧑‍💻😊
+## -[Visit Projects](https://currency-convertor-react-js-blond.vercel.app/)
 
 ## TOOLS USED : Reactjs, tailwind, currency API, github.
 ## ● Developed a real-time currency exchange calculator.
